@@ -16,9 +16,11 @@
     border-radius: 10px;
     position: relative;
     /* width: 80%; */
-    min-width: 200px;
+    min-width: 300px;
+    min-height: 200px;
     max-width: 500px;
     text-align: center;
+    color:red
   }
   
   .close-button {
